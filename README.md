@@ -16,7 +16,7 @@ To enhance browser security by identifying and removing potentially suspicious o
 
 ## 📸 Screenshot Before Cleanup:
 
-![Chrome Extensions Screenshot](Screenshot_exetention.png)
+![Chrome Extensions Screenshot](Screenshot_exetention1.png)
 
 ---
 
@@ -50,3 +50,9 @@ To enhance browser security by identifying and removing potentially suspicious o
 - Removed unused and potentially risky extensions (`ChatGPT Search`, `Free VPN`).
 - Browser feels lighter and more responsive.
 - Gained better awareness of extension permissions and risks.
+
+
+## 📸 Screenshot Before Cleanup:
+
+![Chrome Extensions Screenshot](Screenshot_exetention2.png)
+
